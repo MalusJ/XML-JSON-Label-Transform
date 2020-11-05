@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<request><content><x>186.5</x><y>0</y></content><content><x>0</x><y>0</y></content><content><x>0</x><y>236</y></content><content><x>186.5</x><y>236</y></content><rectMask><xMin>186.5</xMin><yMin>0</yMin><width>-186.5</width><height>236</height></rectMask><labels><labelName>puppy</labelName><labelColor>#ff0000</labelColor><labelColorRGB>255,0,0</labelColorRGB><visibility>false</visibility></labels><labelLocation><x>93.25</x><y>118</y></labelLocation><contentType>rect</contentType></request>

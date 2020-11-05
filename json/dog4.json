@@ -1,0 +1,39 @@
+[
+    {
+        "content": [
+            {
+                "x": 55.5,
+                "y": 0
+            },
+            {
+                "x": 219.5,
+                "y": 0
+            },
+            {
+                "x": 219.5,
+                "y": 163.5
+            },
+            {
+                "x": 55.5,
+                "y": 163.5
+            }
+        ],
+        "rectMask": {
+            "xMin": 55.5,
+            "yMin": 0,
+            "width": 164,
+            "height": 163.5
+        },
+        "labels": {
+            "labelName": "puppy",
+            "labelColor": "#ff0000",
+            "labelColorRGB": "255,0,0",
+            "visibility": false
+        },
+        "labelLocation": {
+            "x": 137.5,
+            "y": 81.75
+        },
+        "contentType": "rect"
+    }
+]

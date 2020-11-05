@@ -1,0 +1,28 @@
+{
+    "annotation": {
+        "folder": "pictures",
+        "filename": "dog2.jpg",
+        "path": "C:\\Users\\fengy\\Desktop\\MALUS\\Python Projects\\labelTransform\\pictures\\dog2.jpg",
+        "source": {
+            "database": "Unknown"
+        },
+        "size": {
+            "width": "213",
+            "height": "236",
+            "depth": "3"
+        },
+        "segmented": "0",
+        "object": {
+            "name": "dog",
+            "pose": "Unspecified",
+            "truncated": "1",
+            "difficult": "0",
+            "bndbox": {
+                "xmin": "1",
+                "ymin": "5",
+                "xmax": "191",
+                "ymax": "196"
+            }
+        }
+    }
+}
