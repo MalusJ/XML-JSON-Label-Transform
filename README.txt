@@ -22,8 +22,7 @@
 
 ```bash
 pip install xmltodict
-```
-
+``
 ## 标注指南
 
 所有xml的标注文件由[labelImg]（https://tzutalin.github.io/labelImg/）制作
@@ -36,6 +35,7 @@ pip install xmltodict
 xml转json： 文件放入<xml>中运行<xml_json.py> 在<xml_to_json>中得到同名json文件
 
 json转xml： 文件放入<json>中运行<json_xml.py> 在<json_to_xml>中得到同名xml文件
+
 
 
 code by Malus
