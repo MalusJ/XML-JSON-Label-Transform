@@ -22,7 +22,7 @@
 
 ```bash
 pip install xmltodict
-``
+```
 ## 标注指南
 
 所有xml的标注文件由[labelImg]（https://tzutalin.github.io/labelImg/）制作
