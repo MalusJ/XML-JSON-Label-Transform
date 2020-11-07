@@ -25,7 +25,7 @@ pip install xmltodict
 ```
 ## 标注指南
 
-所有xml的标注文件由[labelImg]（https://tzutalin.github.io/labelImg/）制作
+所有xml的标注文件由[labelImg](https://tzutalin.github.io/labelImg/)制作
 
 所有json的标准文件由[LabelImage](https://rachelcao277.github.io/LabelImage/)制作
 
